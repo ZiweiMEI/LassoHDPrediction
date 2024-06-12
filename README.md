@@ -1,4 +1,4 @@
-# LassoForecast_UNRATE3
+# LassoForecast_UNRATE
 
 This repository replicates the empirical results in the paper 
 
