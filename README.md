@@ -1,8 +1,7 @@
-# LassoForecast_UNRATE
 
-This repository replicates the empirical results in the paper 
+This repository provides replication files and documents of the empirical results in the paper 
 
-Ziwei Mei, Zhentao Shi (2024): “[On LASSO for High Dimensional Predictive Regression](https://arxiv.org/abs/2212.07052),” forthcoming at *Journal of Econometrics*.
+* Ziwei Mei and Zhentao Shi (2024): “[On LASSO for High Dimensional Predictive Regression](https://arxiv.org/abs/2212.07052),” forthcoming at *Journal of Econometrics*.
 
 `current.csv` includes the FRED-MD dataset from 1960 to 2019. 
 
